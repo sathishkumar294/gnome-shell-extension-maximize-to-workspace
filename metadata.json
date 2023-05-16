@@ -7,6 +7,7 @@
   "url": "https://github.com/rliang/gnome-shell-extension-maximize-to-workspace",
   "shell-version": [
     "3.34",
-    "3.36"
+    "3.36",
+    "44"
   ]
 }
